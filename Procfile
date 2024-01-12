@@ -1,0 +1,1 @@
+web: python manage.py migrate && gunicorn alexflix.wsgi --log-file -

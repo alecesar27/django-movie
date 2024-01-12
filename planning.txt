@@ -1,0 +1,20 @@
+- Homepage
+-  Login e Create account (User e Authentication)
+    - Email
+    - Username
+    - Password
+    - Movie already view
+    - Edit Profile
+
+- Movies/Series
+    - thumb
+    - title
+    - description
+    - category
+    - quantity views
+    - date  creation
+    - Episodes
+        - movies
+        - title
+
+- Search bar
