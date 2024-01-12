@@ -5,7 +5,7 @@ class FilmeConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'filme'
 
-    #Getting or Creating superuser
+    #Getting or Creating super user
     def ready(self):
         from .models import Usuario
         import os
