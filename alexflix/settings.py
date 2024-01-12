@@ -154,9 +154,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_REDIRECT_URL ='filme:homefilmes'
 LOGIN_URL ='filme:login'
 
-LOGOUT_REDIRECT_URL ='filme:homepage'
-LOGOUT_URL ='filme:homepage'
-
 
 #Variable from bootstrap https://github.com/django-crispy-forms/crispy-bootstrap5
 CRISPY_ALLOWED_TEMPLATE_PACKS = 'bootstrap5'
